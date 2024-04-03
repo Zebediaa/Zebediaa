@@ -8,37 +8,27 @@ English and French Section:
 
 // ENGLISH //
 
- 👋 Hi, I’m  Maxime Prince aka Zebediaa currently a student in HETIC School specialyze in Data Science and Artificial Inteligence.
-I have also worked in nuclear physics and had published a science paper with my professor when i was an intern in Subatech's laboratory.
+ 👋 Hi, I’m  Zebediah and I try to be profitable in trading using Data Engineer's tools, fundamentals and technical analysis.
 
-Nuclear Physics paper : https://www.sciencedirect.com/science/article/abs/pii/S0375947420301214?via%3Dihub
-
-:chart_with_downwards_trend: I want to work in the field of finance as a quantitative analyst so that I can  become a quantitative trader.:chart_with_upwards_trend:
-
-
-:dollar: To finance my studies and to imporve my skills i'm working as a Data Scientist freelancer. :dollar:
 
 Please have a look on my work to show you my evolution and my skills. :heavy_check_mark:
 
 📫
-REACH ME :  <li> LinkedIn : https://www.linkedin.com/in/prince-maxime-3832b8183/ </li>
-            <li> Email : princemaxime0405@gmail.com </li>
+REACH ME :  <li> Youtube : https://www.youtube.com/channel/UC33pUS8WwlXb8nft1-fDHAQ </li>
+            <li> Instagram : https://www.instagram.com/zebediah.official/ </li>
+            <li> Telegram : https://t.me/zebediah_trading </li>
+            
+
+
             
 <br><br>
 // FRANÇAIS //
 
- 👋 Bonjour, je m'appele Maxime Prince alias Zebediaa je suis actuellement étudiant à l'école d'HETIC je suis spécialisé en Data Science et Inteligence Artificielle.
-J'ai fais un master en physique nucléaire et publié une publication scientifique avec mon proffessaeur quand j'étais stagiaire au laboratoire de Subatech.
-
-Publication de Physique Nucléaire : https://www.sciencedirect.com/science/article/abs/pii/S0375947420301214?via%3Dihub
-
-:chart_with_downwards_trend: J'ai envie de travailler dans le secteur de la finance comme analyste quantitatif pour ensuite devenir trader.:chart_with_upwards_trend:
-
-
-:dollar: Pour financer mes études et améliorer mes compétences je travaille en tant que Data Scientist en freelance :dollar:
+ 👋 Bonjour, je m'appele Zebediah j'essaye actuellement d'être profitable en trading utilisant des outils de Data Engineer, du fondamental et de l'analyse technique.
 
 Je vous laisse mes différents travaux afin de vous montrer mon évolution ainsi que mes compétences. :heavy_check_mark:
 
 📫
-ME JOINDRE :  <li> LinkedIn : https://www.linkedin.com/in/prince-maxime-3832b8183/ </li>
-            <li> Email : princemaxime0405@gmail.com </li>       
+REACH ME :  <li> Youtube : https://www.youtube.com/channel/UC33pUS8WwlXb8nft1-fDHAQ </li>
+            <li> Instagram : https://www.instagram.com/zebediah.official/ </li>
+            <li> Telegram : https://t.me/zebediah_trading </li>
